@@ -1,0 +1,32 @@
+{
+  "name": "twi-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.18.2",
+    "common-node": "^0.10.20",
+    "express": "^4.15.3",
+    "json2csv": "^4.3.0",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.12.5",
+    "morgan": "^1.9.0",
+    "node-cmd": "^3.0.0",
+    "nodemailer": "^6.3.1",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0",
+    "puppeteer": "1.19.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
