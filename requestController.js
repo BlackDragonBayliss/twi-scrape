@@ -3,6 +3,7 @@ var requestEndpointBehavior = require('./requestEndpointBehavior');
 
 exports.requestEntry = function(req, res)
 {
+    console.log("hit ex")
     if(req.body.requestType == 'twiScrape')
     {
         console.log('twiScrape');

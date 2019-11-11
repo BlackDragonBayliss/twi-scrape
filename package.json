@@ -2,7 +2,7 @@
   "name": "twi-scrape",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "indexTwi.js",
   "dependencies": {
     "assert": "^1.4.1",
     "body-parser": "^1.18.2",
@@ -25,7 +25,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "nodemon indexTwi.js"
   },
   "author": "",
   "license": "ISC"
