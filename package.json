@@ -7,7 +7,7 @@
     "assert": "^1.4.1",
     "body-parser": "^1.18.2",
     "common-node": "^0.10.20",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "json2csv": "^4.3.0",
     "jsonwebtoken": "^7.3.0",
     "mongoose": "^4.12.5",
