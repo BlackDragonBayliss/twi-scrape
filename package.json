@@ -9,7 +9,7 @@
     "common-node": "^0.10.20",
     "express": "^4.15.3",
     "json2csv": "^4.3.0",
-    "jsonwebtoken": "^7.3.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^4.12.5",
     "morgan": "^1.9.0",
     "node-cmd": "^3.0.0",
